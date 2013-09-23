@@ -36,7 +36,7 @@ a {
 /* Nicks */
 
 .sender[type=normal] { color: #c4af75; font-weight: bold; margin-right: 1.5ex; }
-.sender[type=myself] { color: #8996A8; font-weight: bold; margin-right: 1.5ex; }
+.sender[type=myself] { color: #cc8811; font-weight: bold; margin-right: 1.5ex; }
 
 /* Messages */
 

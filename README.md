@@ -8,7 +8,7 @@ h2. 特徴
 h2. HOW TO USE
 
 ```sh
-$ cd ~/Library/Application Support/Limechat/Themes
+$ cd ~/Library/Application\ Support/Limechat/Themes
 $ ln -s /path/to/Limelight_custom/Limelight_custom*
 ```
 
